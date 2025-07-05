@@ -383,7 +383,7 @@ We welcome contributions to `CleanEasy`! To contribute:
 
 ## Contact and Support
 
-- **Email**: exehyper999@gmail.com (replace with your contact)
+- **Email**: exehyper999@gmail.com
 - **GitHub Issues**: [github.com/CyberMatic-AmAn/cleaneasy/issues](https://github.com/CyberMatic-AmAn/cleaneasy/issues)
 - **Documentation**: [https://github.com/CyberMatic-AmAn/cleaneasy](https://github.com/CyberMatic-AmAn/cleaneasy)
 
