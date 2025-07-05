@@ -2,7 +2,7 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org)
 [![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
-[![Version](https://img.shields.io/badge/version-0.2.0-brightgreen)](https://github.com/yourusername/cleaneasy)
+[![Version](https://img.shields.io/badge/version-0.4.2-brightgreen)](https://github.com/yourusername/cleaneasy)
 [![Tests](https://img.shields.io/badge/tests-pytest-orange)](https://pytest.org)
 
 **CleanEasy** is a powerful, user-friendly Python library designed to simplify data cleaning and preprocessing for data scientists and analysts. Built on top of `pandas`, `numpy`, `scikit-learn`, and `nltk`, it provides a chainable API to handle common tasks like missing value imputation, outlier detection, text processing, date manipulation, and categorical encoding. With detailed logging and formatted output, CleanEasy makes data preparation intuitive, transparent, and visually appealing.
