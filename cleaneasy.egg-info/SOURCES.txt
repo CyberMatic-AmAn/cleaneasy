@@ -1,0 +1,16 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+cleaneasy/__init__.py
+cleaneasy/core.py
+cleaneasy/utils.py
+cleaneasy/validators.py
+cleaneasy.egg-info/PKG-INFO
+cleaneasy.egg-info/SOURCES.txt
+cleaneasy.egg-info/dependency_links.txt
+cleaneasy.egg-info/requires.txt
+cleaneasy.egg-info/top_level.txt
+tests/test_core.py
+tests/test_utils.py
+tests/test_validators.py
